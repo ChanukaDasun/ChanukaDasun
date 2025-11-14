@@ -15,4 +15,5 @@ IT Undergraduate at University of Moratuwa
 - MLOps basics
 
 📫 Reach me at:
-- Email / LinkedIn / Portfolio
+- Email: chanukaDsupasena@gmail.com
+- Linkdin: https://www.linkedin.com/m/in/chanukadasun/ 

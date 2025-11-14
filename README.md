@@ -8,12 +8,6 @@ IT Undergraduate at University of Moratuwa
 - Data Preprocessing, Feature Engineering
 - Model Deployment (Flask, FastAPI, Docker)
 
-🚀 Projects:
-- 🖼️ Vision model detecting X
-- 🧠 NLP sentiment pipeline using LSTM
-- 📊 ML pipeline for time series forecasting
-- 🤖 Agent-based AI application (WIP)
-
 🎯 Currently Learning:
 - Multimodal AI
 - ML Pipelines (Airflow / Prefect)

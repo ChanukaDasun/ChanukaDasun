@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Chanuka  
+IT Undergraduate at University of Moratuwa
 
-<!--
-**ChanukaDasun/ChanukaDasun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 I specialize in:
+- Machine Learning (Sklearn, Pandas, NumPy)
+- Deep Learning (TensorFlow, PyTorch)
+- NLP, Computer Vision, Predictive Analytics
+- Data Preprocessing, Feature Engineering
+- Model Deployment (Flask, FastAPI, Docker)
 
-Here are some ideas to get you started:
+🚀 Projects:
+- 🖼️ Vision model detecting X
+- 🧠 NLP sentiment pipeline using LSTM
+- 📊 ML pipeline for time series forecasting
+- 🤖 Agent-based AI application (WIP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Currently Learning:
+- Multimodal AI
+- ML Pipelines (Airflow / Prefect)
+- LangChain Agents
+- MLOps basics
+
+📫 Reach me at:
+- Email / LinkedIn / Portfolio
